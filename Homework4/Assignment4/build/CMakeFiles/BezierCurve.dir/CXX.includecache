@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/media/sf_Oracle_VM_/Homework4/Assignment4/main.cpp
+chrono
+-
+iostream
+-
+opencv2/opencv.hpp
+-
+
